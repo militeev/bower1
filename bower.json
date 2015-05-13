@@ -1,0 +1,25 @@
+{
+  "name": "am-bower1",
+  "version": "0.0.1",
+  "authors": [
+    "amiliteev <amiliteev@pacificmetrics.com>"
+  ],
+  "description": "My test bower project",
+  "main": "hello.js",
+  "dependencies": {
+    "jquery": "~1.10.0",
+    "underscore": "~1.5.1",
+    "requirejs": "~2.1.8"
+  },
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
